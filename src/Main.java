@@ -27,7 +27,9 @@ public class Main {
         }
     }
 
-    /*** Displays the main menu to the user. */
+    /**
+     * Displays the main menu to the user.
+     */
     public static void showMenu() {
         System.out.println("Welcome to the To-Do List Application!");
         System.out.println("1. Log in");
